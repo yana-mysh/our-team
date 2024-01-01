@@ -51,6 +51,7 @@
     background: url(img/background_image.svg);
     text-align: center;
     padding: 184px;
+    background-repeat: no-repeat;
 }
 .h1_text {
     font-family: 'Roboto';
@@ -83,20 +84,20 @@
     font-weight: 400;
     font-size: 18px;
 }
-.our_team_main_1 {
+.our_team_1 {
     display: grid;
     width: 1401px;
     grid-template-columns: 1fr 1fr 1fr;
     margin-left: 260px;
     margin-top: 42px;
 }
-.our_team_giovani {
+.our_team_1__giovani {
     width: 449px;
     height: 615px;
     border-radius: 25px;
     background-color: #F9F8F8;
 }
-.our_team_giovani_name {
+.giovani__name {
     font-family: 'Roboto';
     font-weight: 800;
     font-size: 25px;
@@ -104,26 +105,26 @@
     margin-top: 34.5px;
     margin-left: 28.37px;
 }
-.our_team_giovani_job {
+.giovani__job {
     font-family: 'Yellowtail';
     margin-left: 28.37px;
     font-weight: 400;
     font-size: 22px;
     color: #7EB693;
 }
-.our_team_giovani_social {
+.giovani__social {
     display: flex;
     gap: 18.6px;
     padding-left: 350px;
     margin-top: -28.37px;
 }
-.our_team_marianne {
+.our_team_1__marianne {
     width: 449px;
     height: 615px;
     border-radius: 25px;
     background-color: #F9F8F8;
 }
-.our_team_marianne_name {
+.marianne__name {
     font-family: 'Roboto';
     font-weight: 800;
     font-size: 25px;
@@ -131,26 +132,26 @@
     margin-top: 34.5px;
     margin-left: 28.37px;
 }
-.our_team_marianne_job {
+.marianne__job {
     font-family: 'Yellowtail';
     margin-left: 28.37px;
     font-weight: 400;
     font-size: 22px;
     color: #7EB693;
 }
-.our_team_marianne_social {
+.marianne__social {
     display: flex;
     gap: 18.6px;
     padding-left: 310px;
     margin-top: -28.37px;
 }
-.our_team_riga {
+.our_team_1__riga {
     width: 449px;
     height: 615px;
     border-radius: 25px;
     background-color: #F9F8F8;
 }
-.our_team_riga_name {
+.riga__name {
     font-family: 'Roboto';
     font-weight: 800;
     font-size: 25px;
@@ -158,33 +159,33 @@
     margin-top: 34.5px;
     margin-left: 28.37px;
 }
-.our_team_riga_job {
+.riga__job {
     font-family: 'Yellowtail';
     margin-left: 28.37px;
     font-weight: 400;
     font-size: 22px;
     color: #7EB693;
 }
-.our_team_riga_social {
+.riga__social {
     display: flex;
     gap: 18.6px;
     padding-left: 310px;
     margin-top: -28.37px;
 }
-.our_team_main_2 {
+.our_team_2 {
     display: grid;
     width: 1401px;
     grid-template-columns: 1fr 1fr 1fr;
     margin-left: 260px;
     margin-top: 42px;
 }
-.our_team_keira {
+.our_team_2__keira {
     width: 449px;
     height: 615px;
     border-radius: 25px;
     background-color: #F9F8F8;
 }
-.our_team_keira_name {
+.keira__name {
     font-family: 'Roboto';
     font-weight: 800;
     font-size: 25px;
@@ -192,26 +193,26 @@
     margin-top: 34.5px;
     margin-left: 28.37px;
 }
-.our_team_keira_job {
+.keira__job {
     font-family: 'Yellowtail';
     margin-left: 28.37px;
     font-weight: 400;
     font-size: 22px;
     color: #7EB693;
 }
-.our_team_keira_social {
+.keira__social {
     display: flex;
     gap: 18.6px;
     padding-left: 350px;
     margin-top: -28.37px;
 }
-.our_team_scott {
+.our_team_2__scott {
     width: 449px;
     height: 615px;
     border-radius: 25px;
     background-color: #F9F8F8;
 }
-.our_team_scott_name {
+.scott__name {
     font-family: 'Roboto';
     font-weight: 800;
     font-size: 25px;
@@ -219,26 +220,26 @@
     margin-top: 34.5px;
     margin-left: 28.37px;
 }
-.our_team_scott_job {
+.scott__job {
     font-family: 'Yellowtail';
     margin-left: 28.37px;
     font-weight: 400;
     font-size: 22px;
     color: #7EB693;
 }
-.our_team_scott_social {
+.scott__social {
     display: flex;
     gap: 18.6px;
     padding-left: 310px;
     margin-top: -28.37px;
 }
-.our_team_karen {
+.our_team_2__karen {
     width: 449px;
     height: 615px;
     border-radius: 25px;
     background-color: #F9F8F8;
 }
-.our_team_karen_name {
+.karen__name {
     font-family: 'Roboto';
     font-weight: 800;
     font-size: 25px;
@@ -246,14 +247,14 @@
     margin-top: 34.5px;
     margin-left: 28.37px;
 }
-.our_team_karen_job {
+.karen__job {
     font-family: 'Yellowtail';
     margin-left: 28.37px;
     font-weight: 400;
     font-size: 22px;
     color: #7EB693;
 }
-.our_team_karen_social {
+.karen__social {
     display: flex;
     gap: 18.6px;
     padding-left: 310px;
